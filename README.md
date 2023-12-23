@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Despaired-itachi/Despaired-itachi/blob/cd8b8bb0f4a1de962867980ca4929970c4b28425/dispaired-itachi.jpg" />
+<img src="https://raw.githubusercontent.com/Despaired-itachi/Despaired-itachi/main/dispaired-itachi.jpg" />
 
 <p align="center">
  
